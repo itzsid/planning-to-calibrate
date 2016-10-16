@@ -1,0 +1,2 @@
+global OPTIMIZER;
+OPTIMIZER = 'SAM';
